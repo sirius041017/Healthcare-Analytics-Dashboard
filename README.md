@@ -10,7 +10,6 @@ five factors against the total fertility rate (TFR), SingStat Table Builder, 201
 | `Fertility_Combined_Data.csv` | Everyone's data in one table: one row per year 2000–2025, 111 columns |
 | `Fertility_Analysis.ipynb` | All five parts in one notebook (Healthcare, Housing, Marriage, Income, Education) |
 | `charts/` | Every chart: one folder per member (from their notebook) + `0_Dashboard/` (screenshots of each page) |
-| `sections/` | Helper code and figures the combined notebook uses (Education), output folders for Healthcare / Housing |
 
 
 ## Run
