@@ -1,6 +1,6 @@
-# Singapore birth rate: what moves it? (v9)
+# Singapore birth rate: what moves it?
 
-AN6100 group project · five factors against the total fertility rate (TFR), SingStat Table Builder, 2010–2025.
+five factors against the total fertility rate (TFR), SingStat Table Builder, 2010–2025.
 
 ## What is in this folder
 
