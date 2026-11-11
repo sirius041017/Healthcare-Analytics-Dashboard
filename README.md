@@ -13,20 +13,6 @@ AN6100 group project · five factors against the total fertility rate (TFR), Sin
 | `charts/` | Every chart: one folder per member (from their notebook) + `0_Dashboard/` (screenshots of each page) |
 | `sections/` | Helper code and figures the combined notebook uses (Education), output folders for Healthcare / Housing |
 
-### Members
-
-| Folder | Notebook | Data |
-|---|---|---|
-| `1_Healthcare_Zhou_Dianfeng` | `Healthcare_Zhou_Dianfeng.ipynb` | `Healthcare_Data.csv` |
-| `2_Housing_Angelica_Wu` | `Housing_Angelica_Wu.ipynb` | `Housing_Data.csv` |
-| `3_Marriage_Tongtong_Tang` | `Marriage_Tongtong_Tang.ipynb` | `Marriage_Data.csv` |
-| `4_Income_Kenny` | `Income_Kenny.ipynb` | `Income_Kenny_Data.csv` (raw SingStat values + cleaned table), `raw/` original downloads |
-| `5_Education_Huang_Yixuan` | `Education_Huang_Yixuan.ipynb` | `Education_Data.csv` |
-
-Each member CSV holds the columns of the combined table that member's code reads (Education reads the group master
-columns, as in its original `team_master.csv`). `Income_Kenny_Data.csv` is long format:
-`part` (raw / clean), `table` (SingStat ID), `series`, `period`, `value`, `unit`; the notebook rebuilds the clean table
-from the raw rows and checks it.
 
 ## Run
 
